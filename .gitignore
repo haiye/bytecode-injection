@@ -1,0 +1,12 @@
+target/
+ebay.log
+activemq-data/
+*.orig
+.classpath
+.project
+.settings/*
+client.log
+.settings/org.eclipse.jdt.core.prefs
+.idea/
+*.iml
+*.jar
